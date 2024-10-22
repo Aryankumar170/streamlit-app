@@ -1,0 +1,6 @@
+streamlit~=1.39.0
+moviepy==1.0.3
+google-cloud-speech
+openai~=1.52.0
+google-cloud-texttospeech
+google~=3.0.0
